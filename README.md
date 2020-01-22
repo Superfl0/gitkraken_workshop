@@ -1,6 +1,5 @@
-README.md
-
-###NAME
+### Github Workshop
+A hands-on workshop to demonstrate the uses of Gitkraken and its implementation in the Git eco-system
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
